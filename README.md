@@ -20,16 +20,9 @@ KBC.py   # Main game file
 
 🖥️ How to Play
 
-Clone the repository:
-
-git clone https://github.com/your-username/kbc-game.git
-cd kbc-game
-
-
 Run the game:
 
 python KBC.py
-
 
 Gameplay:
 
