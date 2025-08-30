@@ -1,6 +1,6 @@
                            #   KAUN BANEGA CROREPATI       
 startbutton = input("Press the any ASCII key in keyboard to play KBC:").lower()
-username=input("Type your name: ").title()
+username=input("Type your name:1 ").title()
 # if startbutton == for a in startbutton():
 keyboard_keys = ['`','1','2','3','4','5','6','7','8','9','0','-','=','Backspace','Tab','q','w','e','r','t','y','u','i','o','p','[',']','\\','CapsLock','a','s','d','f','g','h','j','k','l',';',"'",'z','x','c','v','b','n','m',',','.','/','']
 
